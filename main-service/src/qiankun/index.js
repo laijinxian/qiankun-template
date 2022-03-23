@@ -30,29 +30,41 @@ const microApps = [
     entry: '//localhost:7788',
     activeRule: '/sub-vue2',
   },
+  // {
+  //   name: 'sub-vue3',
+  //   developer: 'vue3.x',
+  //   entry: '//localhost:7799',
+  //   activeRule: '/sub-vue3'
+  // },
+  // {
+  //   name: 'sub-react',
+  //   developer: 'react16',
+  //   entry: '//localhost:7755',
+  //   activeRule: '/sub-react'
+  // },
+  // {
+  //   name: 'sub-umi2',
+  //   developer: 'umi2.x',
+  //   entry: '//localhost:7766',
+  //   activeRule: '/sub-umi2'
+  // },
+  // {
+  //   name: 'sub-umi3',
+  //   developer: 'umi3.x',
+  //   entry: '//localhost:7733',
+  //   activeRule: '/sub-umi3'
+  // },
   {
-    name: 'sub-vue3',
-    developer: 'vue3.x',
-    entry: '//localhost:7799',
-    activeRule: '/sub-vue3'
+    name: 'sub-vite2-react',
+    developer: 'vite2-react',
+    entry: '//localhost:7722',
+    activeRule: '/sub-vite2-react'
   },
   {
-    name: 'sub-react',
-    developer: 'react16',
-    entry: '//localhost:7755',
-    activeRule: '/sub-react'
-  },
-  {
-    name: 'sub-umi2',
-    developer: 'umi2.x',
-    entry: '//localhost:7766',
-    activeRule: '/sub-umi2'
-  },
-  {
-    name: 'sub-umi3',
-    developer: 'umi3.x',
-    entry: '//localhost:7733',
-    activeRule: '/sub-umi3'
+    name: 'sub-vite2-vue3',
+    developer: 'vite2-vue3',
+    entry: '//localhost:7711',
+    activeRule: '/sub-vite2-vue3'
   }
 ]
 
