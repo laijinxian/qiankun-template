@@ -7,6 +7,8 @@
 - react16
 - umi2 + dva
 - umi3 + dva
+- sub-vite2-react
+- sub-vite2-vue3
 
 **`初衷`**：自己当时摸索`qiankun`构建项目时，问题百出， 特别是`umi2` 及` umi3`，百度了几天才把热门框架都集合完毕；
 
